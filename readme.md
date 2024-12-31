@@ -59,7 +59,7 @@ folder. Static resources, such as CSS files or images, are put in
 *src/main/webapp/static/* and accessed by linking to *static/style.css* (for an
 example CSS file).
 
-## The application path
+## The application path ##
 
 As you'll see, your application's URL needs to be amended with
 */webapi/service/* in order to actually do something. This isn't something that
